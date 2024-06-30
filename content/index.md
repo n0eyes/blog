@@ -1,6 +1,16 @@
 ---
-title: Welcome to Quartz
+title: About
+date: 2024-06-30
+draft: false
+tags:
 ---
+ 
+**안녕하세요, 프론트엔드 개발자 정세연입니다 😄**
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+코드가 유무형의 가치로 변환되는 과정을 즐깁니다.
+
+사용자 경험과 개발자 경험에 관심이 많습니다.
+
+개발 문화의 선순환에 기여하고 싶습니다. 기회가 된다면, 멘토링, 강연 또는 컨퍼런스 연사로 참여하고 싶습니다.
+
+마술, 장기, 사진, 독서와 같은 정적인 활동을 좋아합니다  :^ D
