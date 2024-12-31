@@ -85,7 +85,7 @@ tags:
 
 실제로 위 데모의 `toggle work` 버튼의 이벤트 리스너를 확인해 보면 `noop(no operation)`이 등록된 것을 확인할 수 있습니다.
 
-![toggle work 이벤트 리스너](./assets/Bug: ref.current.contains(e.target) returns incorrect value if react element is removed on the next render/noop.png)
+![toggle work 이벤트 리스너](<./assets/ref.current.contains(e.target)%20returns%20incorrect%20value%20if%20react%20element%20is%20removed%20on%20the%20next%20render/noop.png>)
 
 그렇다면 각 이벤트 핸들러들은 어디에 등록될까요?
 
@@ -137,7 +137,7 @@ React의 렌더링은 크게 다음 두 단계를 거칩니다.
 
 퍼포먼스 탭에 마커를 찍어보면 위 과정과 동일한 순서로 동작하는 것을 확인할 수 있습니다.
 
-![브라우저 프로세스](./assets/Bug: ref.current.contains(e.target) returns incorrect value if react element is removed on the next render/퍼포먼스.png)
+![브라우저 프로세스](<./assets/ref.current.contains(e.target)%20returns%20incorrect%20value%20if%20react%20element%20is%20removed%20on%20the%20next%20render/퍼포먼스.png>)
 
 # 해결 방법이 해결 방법인 이유
 
